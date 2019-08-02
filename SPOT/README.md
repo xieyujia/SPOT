@@ -24,6 +24,18 @@ photo-monet dataset can be downloaded from https://github.com/junyanz/pytorch-Cy
 
 Generated samples will be in the `samples` folder by default.
 
+
+## Citation
+
+```
+@article{xie2019scalable,
+  title={On Scalable and Efficient Computation of Large Scale Optimal Transport},
+  author={Xie, Yujia and Chen, Minshuo and Jiang, Haoming and Zhao, Tuo and Zha, Hongyuan},
+  journal={arXiv preprint arXiv:1905.00158},
+  year={2019}
+}
+```
+
 ## Reference
 
 https://github.com/martinarjovsky/WassersteinGAN
