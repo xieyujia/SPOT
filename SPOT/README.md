@@ -28,10 +28,11 @@ Generated samples will be in the `samples` folder by default.
 ## Citation
 
 ```
-@article{xie2019scalable,
+@inproceedings{xie2019scalable,
   title={On Scalable and Efficient Computation of Large Scale Optimal Transport},
   author={Xie, Yujia and Chen, Minshuo and Jiang, Haoming and Zhao, Tuo and Zha, Hongyuan},
-  journal={arXiv preprint arXiv:1905.00158},
+  booktitle={International Conference on Machine Learning},
+  pages={6882--6892},
   year={2019}
 }
 ```
